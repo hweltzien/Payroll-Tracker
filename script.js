@@ -11,7 +11,7 @@ const collectEmployees = function () {
     const firstName = prompt("Enter first name");
     const lastName = prompt("Enter last name");
     const salary = prompt("Enter employee salary");
-    //const salary = parseInt(prompt("Enter employee salary"));
+    
 
     console.log(firstName, lastName, salary)
     console.log("Salary datatype: ", typeof salary);

@@ -1,8 +1,6 @@
 # Employee Payroll Tracker Starter Code
 ## Description
-After utilizing web-based resources and instructional support...
-
-I learned how to ...
+After utilizing web-based resources and instructional support, this assignment demonstrates my initial understanding and working knowledge of JavaScript. I learned how to acquire user input, store captured data and generate an array. I converted string data to numeric data before calculating the average. I also entered a calculation in order to generate a random value from the array.
 
 ## Table of Contents 
 
@@ -18,7 +16,7 @@ To clone the assignment, click the green button labeled, "code." Copy the URL fo
 
 ## Usage
 
-The Employee Payroll Tracker has ...
+The Employee Payroll Tracker has a table with three columns. There is a button which prompts the user to begin entering data. The user will be prompted to provide first name, last name, and salary for each employee. When the user selects "cancel" and is finished adding employees, the employee data will be displayed in the table. The data will be sorted alphabetically by last name. The console log will provide the average employee salary and display a random employee.
 
 ## How-To-Guide
 <ul>    
@@ -36,7 +34,9 @@ The Employee Payroll Tracker has ...
 ## Credits
 <ul>
     <li>Tutoring session with Erik Hoversten</li>
-    <li>Office hours with Anthony Barrigan</li>
+    <li>Tutoring session with Chris Baird</li>
+    <li>Office hours with Anthony Barragan</li>
+    <li>[Traversy Media](https://www.youtube.com/watch?v=BI1o2H9z9fo)</li>
 </ul>
 
 ## License
