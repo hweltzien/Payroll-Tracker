@@ -43,4 +43,4 @@ The Employee Payroll Tracker has a table with three columns. There is a button w
 
 Please refer to the LICENSE in the repo.
 
-# [link to completed project](______________)
+# [link to completed project](https://hweltzien.github.io/Payroll-Tracker/ '_blank')
