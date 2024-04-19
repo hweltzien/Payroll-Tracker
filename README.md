@@ -1,6 +1,6 @@
 # Employee Payroll Tracker Starter Code
 ## Description
-After utilizing web-based resources and instructional support, this assignment demonstrates my initial understanding and working knowledge of JavaScript. I learned how to acquire user input, store captured data and generate an array. I converted string data to numeric data before calculating the average. I also entered a calculation in order to generate a random value from the array.
+After utilizing web-based resources and instructional support, this assignment demonstrates my initial understanding and working knowledge of JavaScript. I learned how to acquire user input, store captured data, and generate an array. I converted string data to numeric data before calculating the average. I also entered a calculation in order to generate a random value from the array.
 
 ## Table of Contents 
 
@@ -36,11 +36,11 @@ The Employee Payroll Tracker has a table with three columns. There is a button w
     <li>Tutoring session with Erik Hoversten</li>
     <li>Tutoring session with Chris Baird</li>
     <li>Office hours with Anthony Barragan</li>
-    <li>[Traversy Media](https://www.youtube.com/watch?v=BI1o2H9z9fo)</li>
+    <li><a href = "https://www.youtube.com/watch?v=BI1o2H9z9fo">Traversy Media</a></li>
 </ul>
 
 ## License
-
+ 
 Please refer to the LICENSE in the repo.
 
 # [link to completed project](https://hweltzien.github.io/Payroll-Tracker/ '_blank')
